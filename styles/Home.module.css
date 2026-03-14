@@ -1,0 +1,32 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.profile {
+  border-radius: 50%;
+}
+
+.main h2 {
+  margin-top: 40px;
+}
+
+.projectGrid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.projectCard {
+  background: #fff;
+  padding: 15px;
+  border-radius: 10px;
+  width: 300px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
