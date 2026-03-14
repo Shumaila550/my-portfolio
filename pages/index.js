@@ -6,13 +6,13 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Shahzad Bukhari | Portfolio</title>
+        <title>Shumaila Bukhari | Portfolio</title>
         <meta name="description" content="Web Developer Portfolio" />
       </Head>
 
       <header className={styles.header}>
         <Image src="/images/profile.jpg" alt="Profile" width={120} height={120} className={styles.profile}/>
-        <h1>Shahzad Bukhari</h1>
+        <h1>Shumaila Bukhari</h1>
         <p>Frontend Developer | React | Next.js | Portfolio</p>
       </header>
 
